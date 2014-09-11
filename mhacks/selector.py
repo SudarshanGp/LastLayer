@@ -31,6 +31,10 @@ def sendMessage_simp():
 
 
 def getMethod():
+	#note that in the interest of simplicity, if a particular preffers to be
+	#notifed by more than one method, method.json will simply have multipe entries
+	#associated with his account.
+	#NOTE: this is an O(N) operation. We should replce this with a hash table when time permits
 	print "This method is supposed to find this user\'s preffered\n"
 	print "choice(s) of authentication\n"
 	print "this is still to be implemented\n"
