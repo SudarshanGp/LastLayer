@@ -18,6 +18,11 @@ client = TwilioRestClient(ACCOUNT_SID, AUTH_TOKEN)
 #this file should only invoke methods to send auth prompts
 
 
+def sendYo():
+	#this message should simply invoke the yo.py file
+	#providing the user's information.
+
+
 def sendMessage_simp():
 	report.write("message sent to ")
 	report.write(number)
