@@ -5,4 +5,4 @@ The Last Layer project is an attempt at making n-factor authenication fast and h
 
 The project is managed by Abhishek Modi and Sudarshan Govindaprasad at the University of Illinois at Urbana Champaign. The inspiration for the project came out the realization of how insecure the secuirty and authentcation systems for the university buildings were. Work on this idea began at MHacks IV.
 
-Please feel free to contribute.
+NOTE: THIS REPOSITORY IS BEING PHASED OUT. ALL CODE IS MOVING TO NINETYMG: https://github.com/ninetymg/last-layer
