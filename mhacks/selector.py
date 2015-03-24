@@ -2,8 +2,8 @@ import time
 from twilio.rest import TwilioRestClient 
  
 
-ACCOUNT_SID = "AC5e89975323b46e4d820390f8ad591339" 
-AUTH_TOKEN = "836c46b0edb008a44a980fde1ce77d7a" 
+ACCOUNT_SID = "" 
+AUTH_TOKEN = "" 
 report = open("C:\\Users\\Abhishek\\Desktop\\MHacksIV\\report.txt", "w+")
 
 
